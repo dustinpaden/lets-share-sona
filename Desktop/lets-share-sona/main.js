@@ -22,7 +22,7 @@ $(function () {
         // To the redirect link, the following information will be appended: (1) participant number, (2) condition, (3) username, (4) description submitted by participant. These variables can be extracted from the link, saved as data, and used for linking the Social Media Ostracism paradigm to subsequent tasks and measures. See documentation for more details.
 
         settings.defaultredirect =
-            "https://survey.alchemer.com/s3/7475710/Let-s-Share-ResearchMatch-Post";
+            "https://survey.alchemer.com/s3/7542187/Social-Media-Study-SONA-post";
 
         // **Tasklength**
         // Length of the group introduction task in milliseconds. Can be changed to any number (in ms). Default: 180000 (3min)
